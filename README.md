@@ -3,6 +3,6 @@
 # 🎯 Goals
 * Part of my daily plan for studying python.
 * Deepen understanding of python syntax and built-in modules
-* Explore a wide range of programming concepts (algorithms,file I/O, Data structures, etc.)
+* Explore a wide range of programming concepts (Algorithms,File I/O, Data structures, etc.)
 * Build a personal refference of small, runnable examples
 * Stay consistent 
