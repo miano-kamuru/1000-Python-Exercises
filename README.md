@@ -1,5 +1,5 @@
 # 1000-Python-Exercises
-🐍 A personal challenge to write 1000 python scripts, Its part of my daily plan for studying python. Each script is a self-contained console program designed to practise and maintain python skills. 
+🐍 A personal challenge to write 1000 python scripts, its part of my daily plan for studying python. Each script is a self-contained console program designed to practise and maintain python skills. 
 
 # 🎯 Goals
 * Deepen understanding of python syntax and built-in modules
