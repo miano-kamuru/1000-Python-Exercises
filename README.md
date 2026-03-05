@@ -5,4 +5,5 @@
 * Deepen understanding of python syntax and built-in modules
 * Explore a wide range of programming concepts (Algorithms,File I/O, Data structures, etc.)
 * Build a personal refference of small, runnable examples
+* Learn houdini surface operators (sops)
 * Stay consistent 
